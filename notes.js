@@ -173,3 +173,9 @@
 // const car1 = new Car("red",120);
 // console.log(car1);
 // car1.turboOn();
+
+// Iteration in arrays
+// const colors = ['red','orange','yellow']
+// for (var color of colors) {
+//     console.log(color);
+// }
