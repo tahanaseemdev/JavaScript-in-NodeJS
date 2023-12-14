@@ -29,7 +29,6 @@ function intern() {
     Bob.goToWork();
     return Bob;
 }
-
 // Task 4: Code a manager object, methods
 function manager() {
     var Alice = new Worker(100, 30, "Alice", 30, 120)   
