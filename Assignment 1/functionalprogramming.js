@@ -6,7 +6,6 @@ function consoleStyler(color, background, fontSize, txt) {
     style += `font-size: ${fontSize};`;
     console.log(message, style);
 }
-
 // Task 2: Build another console log message generator
 function celebrateStyler(reason) {
     var fontStyle = "color: tomato; font-size:50px";
