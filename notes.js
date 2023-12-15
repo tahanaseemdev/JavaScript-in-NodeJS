@@ -215,3 +215,6 @@
 
 //template literal
 //console.log(`${1 + 1 + 1 + 1 + 1} stars!`) 
+let first = `Hey`;
+let second = `world`;
+console.log(`${first}, How are you ${second}`);
