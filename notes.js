@@ -215,6 +215,47 @@
 
 //template literal
 //console.log(`${1 + 1 + 1 + 1 + 1} stars!`) 
-let first = `Hey`;
-let second = `world`;
-console.log(`${first}, How are you ${second}`);
+// let first = `Hey`;
+// let second = `world`;
+// console.log(`${first}, How are you ${second}`);
+
+// Data Structures: Object, Array, Map, Set
+//Map
+// let bestBoxers = new Map();
+// bestBoxers.set("hey", "The Champion");
+// bestBoxers.set(2, "The Runner-up");
+// bestBoxers.set(3, "The third place");
+// console.log(bestBoxers);
+
+//.forEach()
+// const fruits = ['kiwi','mango','apple','pear'];
+// function appendIndex(fruit, index) {
+//     console.log(`${index}. ${fruit}`)
+// }
+// fruits.forEach(appendIndex);
+
+// .filter()
+// const nums = [0,10,20,30,40,50];
+// nums.filter( function(num) {
+//     return num > 20;
+// })
+
+// .map()
+// [0,10,20,30,40,50].map( function(num) {
+//     return num / 10
+// })
+
+//Convert object to array
+// const result = [];
+// const drone = {
+//     speed: 100,
+//     color: 'yellow'
+// }
+// const droneKeys = Object.keys(drone);
+// droneKeys.forEach( function(key) {
+//     result.push(key, drone[key])
+// })
+// console.log(result)
+
+//The spread operator allows you to pass all array elements into a function without having to type them all individually
+// The rest operator allows you to take items from an array and use them to create a separate sub-array. 
