@@ -277,3 +277,6 @@
 //};
 // Arrow function
 //const addArrow = (x, y) => x + y;
+
+//TDD (Test-Driven Development)
+// Implemented in red, green and refactor cycle
