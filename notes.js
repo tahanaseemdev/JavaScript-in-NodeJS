@@ -210,9 +210,6 @@
 //     console.log(key, ":", clothingItem[key])
 // }
 
-//for-in loop is unreliable as it also iterates over the prototype of object
-//whereas for-of is reliable
-
 //template literal
 //console.log(`${1 + 1 + 1 + 1 + 1} stars!`) 
 // let first = `Hey`;
