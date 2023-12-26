@@ -259,3 +259,14 @@
 
 //The spread operator allows you to pass all array elements into a function without having to type them all individually
 // The rest operator allows you to take items from an array and use them to create a separate sub-array. 
+
+// Refactoring is updating code without affecting the result it produces
+
+//Types of Testing
+// e2e
+// Integration testing
+// Unit testing 
+
+//Jest
+// Mocking in Jest
+// Snapshot Testing
