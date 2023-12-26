@@ -270,3 +270,10 @@
 //Jest
 // Mocking in Jest
 // Snapshot Testing
+
+// Traditional function expression
+//const add = function(x, y) {
+//    return x + y;
+//};
+// Arrow function
+//const addArrow = (x, y) => x + y;
